@@ -58,6 +58,11 @@
   <img src="https://streak-stats.demolab.com?user=ashiq-d&theme=tokyonight" />
 </p>
 
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiq-d/ashiq-d/output/github-contribution-grid-snake.svg"/>
+</p>
 
 
 ---
