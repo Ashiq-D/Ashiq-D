@@ -1,23 +1,67 @@
-<h1 align="center">Hi 👋, I'm Ashiq</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiq-d&label=Profile%20views&color=0e75b6&style=flat" alt="ashiq-d" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **ashiqbinhamid@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashiq bin hamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiq bin hamid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashiq23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashiq23" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Ashiq</h1>
+<h3 align="center">Frontend-Backend Developer | Problem Solver | Tech Enthusiast</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiq-d&show_icons=true&locale=en&layout=compact" alt="ashiq-d" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashiq-d&label=Profile%20views&color=0e75b6&style=flat" alt="ashiq-d" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiq-d&show_icons=true&locale=en" alt="ashiq-d" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiq-d&" alt="ashiq-d" /></p>
+##  About Me
+
+* 🌱 Currently learning **Data Structures & Algorithms**
+* 💻 Passionate about **Frontend Development**
+* 🧠 Interested in **Software Engineering & Problem Solving**
+* 📫 Reach me at **[ashiqbinhamid@gmail.com](mailto:ashiqbinhamid@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ashiq-bin-hamid" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/ashiq23" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:ashiqbinhamid@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,mysql,git,github,vscode,html,css,js" />
+
+</p>
+
+---
+
+##  GitHub Stats
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashiq-d&theme=tokyonight" />
+</p>
+
+
+
+---
+
+## ⚡ Fun Fact
+
+> I love solving problems and turning ideas into real-world applications 🚀
